@@ -14,7 +14,8 @@ Therefore, computational structure prediction methods were employed to generate 
 
 ## Step 1: Protein Sequence Retrieval
 
-The amino acid sequence of DORY04 was obtained from UniProt in FASTA format.
+The amino acid sequence of D0RY04 was obtained from UniProt in FASTA format.
+https://rest.uniprot.org/uniparc/UPI0001BB5104.fasta
 
 ---
 
